@@ -1,0 +1,31 @@
+{
+  "name": "secalc",
+  "version": "1.0.0",
+  "description": "Section Calculator for Civil Engineering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mclittle/secalc.git"
+  },
+  "keywords": [
+    "section",
+    "calculation",
+    "steel",
+    "concrete",
+    "sections",
+    "civil",
+    "engineering"
+  ],
+  "author": "Ismail Kucuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mclittle/secalc/issues"
+  },
+  "homepage": "https://github.com/mclittle/secalc#readme",
+  "dependencies": {
+    "contour-js": "^1.0.3"
+  }
+}
